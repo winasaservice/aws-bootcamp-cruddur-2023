@@ -1,0 +1,18 @@
+[
+    {
+      "Notification": {
+        "NotificationType": "ACTUAL",
+        "ComparisonOperator": "GREATER_THAN",
+        "Threshold": 85,
+        "ThresholdType": "PERCENTAGE",
+        "NotificationState": "ALARM"
+      },
+      "Subscribers": [
+        {
+          "SubscriptionType": "EMAIL",
+          "Address": "p4ulw4f@gmail.com"
+        }
+      ]
+    }
+    ...
+  ]
