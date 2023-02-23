@@ -1,0 +1,41 @@
+{
+    "BudgetName": "Paul Initial Budget v CLI",
+    "BudgetLimit": {
+      "Amount": "10",
+      "Unit": "USD"
+    },
+    "CostTypes": {
+      "IncludeTax": true,
+      "IncludeSubscription": true,
+      "UseBlended": false,
+      "IncludeRefund": false,
+      "IncludeCredit": true,
+      "IncludeUpfront": true,
+      "IncludeRecurring": true,
+      "IncludeOtherSubscription": true,
+      "IncludeSupport": true,
+      "IncludeDiscount": true,
+      "UseAmortized": false
+    },
+    "TimeUnit": "MONTHLY",
+    "CalculatedSpend": {
+      "ActualSpend": {
+        "Amount": "0",
+        "Unit": "USD"
+      },
+      "ForecastedSpend": {
+        "Amount": "8",
+        "Unit": "USD"
+      }
+    },
+    "BudgetType": "COST",
+    "LastUpdatedTime": 1677146378,
+    "AutoAdjustData": {
+      "AutoAdjustType": "FORECAST",
+      "HistoricalOptions": {
+        "BudgetAdjustmentPeriod": 12,
+        "LookBackAvailablePeriods": 12
+      },
+      "LastAutoAdjustTime": 1677146378
+    }
+  }
