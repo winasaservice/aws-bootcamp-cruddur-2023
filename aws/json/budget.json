@@ -29,13 +29,6 @@
       }
     },
     "BudgetType": "COST",
-    "LastUpdatedTime": 1677146378,
-    "AutoAdjustData": {
-      "AutoAdjustType": "FORECAST",
-      "HistoricalOptions": {
-        "BudgetAdjustmentPeriod": 12,
-        "LookBackAvailablePeriods": 12
-      },
-      "LastAutoAdjustTime": 1677146378
+    "LastUpdatedTime": 1677146378
     }
-  }
+  
